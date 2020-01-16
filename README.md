@@ -1,2 +1,2 @@
-# RAFT
+# Raft
  Distributed Consenus Algorithm
