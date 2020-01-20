@@ -6,6 +6,7 @@
  
  RAFT Paper : https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14.
  
- This project is implemented in Go. It used goroutines to implement parallel threads.
+ This project is implemented in Go. It uses goroutines to implement parallel processing.
+ Goroutines are used to implement Asynchronous and synchronous processing and thread execution.
  
  Due to infrastructure limitations, this project was implemented on a single machine, and distributed environment simulated using RPC's.
